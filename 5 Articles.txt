@@ -1,0 +1,100 @@
+----------------task_one---------------
+
+5 paragraphs about tech articles ********UNORDERED LIST*******
+
+each article must be linked to the actual article. 
+
+- dsfsdfsdfsdfsdfdsddffsddfsdfasdas 
+JUMPLINK TO...
+www.dfsd.co.za
+
+- dsfsdfsdfsdfsdfdsddffsddfsdfasdas
+www.dfsd.co.za
+
+- dsfsdfsdfsdfsdfdsddffsddfsdfasdas
+www.dfsd.co.za
+
+- dsfsdfsdfsdfsdfdsddffsddfsdfasdas
+www.dfsd.co.za
+
+- dsfsdfsdfsdfsdfdsddffsddfsdfasdas
+www.dfsd.co.za
+
+article should have lists
+
+----------------------HEADING MOVIES-------------------------
+
+5 site by movies - ******ORDERED LIST*********
+- movie (picture)- year - genre - IMDB (should open to the article of the movie)
+- movie - year - genre - IMDB
+- movie - year - genre - IMDB
+- movie - year - genre - IMDB
+- movie - year - genre - IMDB
+
+comments
+crisp code
+git commit -m
+git push -u
+
+__________________________________________________________________________________
+
+IN CLASS TASK
+
+Capture data for all the students n class
+
+NAME--- SURNAME --- LOCATION --- GENDER --- LEFT OR RIGHT HANDED --- 
+LAPTOP NUMBER --- PREFERED TEXT EDITOR
+
+___________________________________________________________________________________
+
+----------------------------------task_two----------------------------------------
+
+Write an apology letter to your darling
+a sweet message paragraph. Make dinner
+options of her favourite dish
+
+
+Ingredients and Method (Ordered list) of making
+- asdasd
+- asdasd
+- asdasd
+- asdas
+1. asdasd
+2. asdas
+3. asdasd
+4. asdasd
+
+Movies to choose from dropdown list
+
+- asdasd
+- asdas
+- asdasd
+
+
+Day and date of whe she wants to go 
+
+ Date day time 
+ Calendar
+
+Radio buttons on where she wants to go
+
+- signal hill
+- desert
+- askjdbas
+
+She must respond back to me
+
+before she sends to me she must accept the apology
+
+
+
+
+
+
+
+
+
+
+
+
+
